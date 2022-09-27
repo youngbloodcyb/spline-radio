@@ -7,7 +7,7 @@
     const canvas = document.getElementById('canvas3d');
 
     // change canvas height and width & color
-    canvas.width = window.innerWidth;
+    // canvas.width = window.innerWidth;
     canvas.height = window.innerHeight;
 
     canvas.style.backgroundColor = "black";
@@ -23,4 +23,7 @@
 </main>
 
 <style>
+  #canvas3d {
+    width: 100%;
+  }
 </style>
