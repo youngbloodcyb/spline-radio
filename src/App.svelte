@@ -4,3 +4,9 @@
 
 <main>
 </main>
+
+<style>
+  #sc-widget {
+    display: none;
+  }
+</style>
